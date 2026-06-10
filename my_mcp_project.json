@@ -1,0 +1,33 @@
+{
+  "mcpServers": {
+    "my-weather-server": {
+      "command": "C:\\Users\\Lenovo\\.local\\bin\\uv.exe",
+      "args": [
+        "--directory",
+        "C:\\Users\\Lenovo\\Desktop\\learnbay projects\\MCP",
+        "run",
+        "weather_server.py"
+      ]
+    }
+  },
+  "preferences": {
+    "remoteToolsDeviceName": "desktop-iun1k3b",
+    "coworkWebSearchEnabled": true,
+    "coworkScheduledTasksEnabled": false,
+    "ccdScheduledTasksEnabled": false,
+    "bypassPermissionsGateByAccount": {
+      "907598f7-97a8-4066-9f6f-08d306ecd4fc": false
+    },
+    "epitaxyPrefs": {
+      "starred-local-code-sessions": [],
+      "starred-cowork-spaces": [],
+      "starred-session-groups": [],
+      "dframe-local-slice": {
+        "pinnedOrder": [],
+        "customGroupAssignments": {},
+        "customGroupOrder": {}
+      }
+    }
+  },
+  "coworkUserFilesPath": "C:\\Users\\Lenovo\\Claude"
+}
